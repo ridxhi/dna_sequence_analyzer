@@ -1,0 +1,16 @@
+DNA Sequence Results
+Sequence: ATGCGATACGTTAGC
+Length: 15
+A count: 4
+T count: 4
+C count: 3
+G count: 4
+GC content: 46.67%
+Reverse complement: GCTAACGTATCGCAT
+
+Codon counts:
+ATG: 1
+CGA: 1
+TAC: 1
+GTT: 1
+AGC: 1
